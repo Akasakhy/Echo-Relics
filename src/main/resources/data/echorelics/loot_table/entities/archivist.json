@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "echorelics:awakened_echo_blade"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 24
+            }
+          ],
+          "name": "minecraft:amethyst_shard"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "echorelics:entities/archivist"
+}

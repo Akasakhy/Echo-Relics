@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "echorelics:echo_plate",
+    "echorelics:resonance_target",
+    "echorelics:archive_door"
+  ]
+}

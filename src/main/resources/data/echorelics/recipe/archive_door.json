@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "CAC",
+    "CAC"
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "C": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "echorelics:archive_door",
+    "count": 2
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "itemGroup.echorelics.echo_relics": "Echo Relics",
+  "item.echorelics.echo_blade": "Echo Blade",
+  "item.echorelics.awakened_echo_blade": "Awakened Echo Blade",
+  "item.echorelics.echo_sigil": "Echo Sigil",
+  "block.echorelics.echo_plate": "Echo Plate",
+  "block.echorelics.resonance_target": "Resonance Target",
+  "block.echorelics.archive_door": "Archive Door",
+  "entity.echorelics.echo_avatar": "Echo Avatar",
+  "entity.echorelics.archivist": "The Archivist",
+  "advancement.echorelics.defeat_archivist.title": "No History Is Final",
+  "advancement.echorelics.defeat_archivist.description": "Defeat the Archivist by mastering recorded space",
+  "enchantment.echorelics.reverberation": "Reverberation",
+  "enchantment.echorelics.accelerando": "Accelerando",
+  "death.attack.echorelics.echo_slash": "%1$s was cut down by %2$s's echo",
+  "death.attack.echorelics.echo_slash.item": "%1$s was cut down by %2$s's echo using %3$s"
+}

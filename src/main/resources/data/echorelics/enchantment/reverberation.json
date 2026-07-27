@@ -1,0 +1,22 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "translate": "enchantment.echorelics.reverberation"
+  },
+  "effects": {},
+  "max_cost": {
+    "base": 35,
+    "per_level_above_first": 12
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 12
+  },
+  "primary_items": "echorelics:echo_blade",
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "echorelics:echo_blade",
+  "weight": 5
+}

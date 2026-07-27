@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "criteria": {
+    "defeated_archivist": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "minecraft:entity_type": "echorelics:archivist"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.echorelics.defeat_archivist.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "id": "echorelics:awakened_echo_blade"
+    },
+    "title": {
+      "translate": "advancement.echorelics.defeat_archivist.title"
+    }
+  }
+}

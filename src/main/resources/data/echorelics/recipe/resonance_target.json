@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    "minecraft:target",
+    "minecraft:amethyst_shard",
+    "minecraft:copper_ingot"
+  ],
+  "result": {
+    "id": "echorelics:resonance_target",
+    "count": 1
+  }
+}

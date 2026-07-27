@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "powered=false,releasing=false": {
+      "model": "echorelics:block/echo_plate"
+    },
+    "powered=false,releasing=true": {
+      "model": "echorelics:block/echo_plate"
+    },
+    "powered=true,releasing=false": {
+      "model": "echorelics:block/echo_plate_down"
+    },
+    "powered=true,releasing=true": {
+      "model": "echorelics:block/echo_plate_down"
+    }
+  }
+}

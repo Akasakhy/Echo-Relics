@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "echorelics:block/resonance_target"
+    },
+    "powered=true": {
+      "model": "echorelics:block/resonance_target_active"
+    }
+  }
+}

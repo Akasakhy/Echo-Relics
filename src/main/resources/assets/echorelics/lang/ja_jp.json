@@ -1,0 +1,17 @@
+{
+  "itemGroup.echorelics.echo_relics": "Echo Relics",
+  "item.echorelics.echo_blade": "残響の剣",
+  "item.echorelics.awakened_echo_blade": "覚醒した残響の剣",
+  "item.echorelics.echo_sigil": "残響の印",
+  "block.echorelics.echo_plate": "残響板",
+  "block.echorelics.resonance_target": "共鳴標的",
+  "block.echorelics.archive_door": "記録庫の扉",
+  "entity.echorelics.echo_avatar": "過去の残像",
+  "entity.echorelics.archivist": "記録者",
+  "advancement.echorelics.defeat_archivist.title": "歴史に終止符を",
+  "advancement.echorelics.defeat_archivist.description": "記録された空間を制し、記録者を倒す",
+  "enchantment.echorelics.reverberation": "反響",
+  "enchantment.echorelics.accelerando": "加速",
+  "death.attack.echorelics.echo_slash": "%1$sは%2$sの残響に斬り伏せられた",
+  "death.attack.echorelics.echo_slash.item": "%1$sは%2$sの残響（%3$s）に斬り伏せられた"
+}
